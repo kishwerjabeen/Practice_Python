@@ -12,3 +12,4 @@ print(first_name + "3") #no_error
 print(first_name + str(3)) # no error
 
 print(first_name  * 3) # no error , 3 times dispaly name
+#all about strings 
