@@ -10,5 +10,5 @@ ans= (int(num1) + int(num2) + int(num3))/3
 print("avrage of three number " + str(  ans))
 
 
-#or 
+
 
